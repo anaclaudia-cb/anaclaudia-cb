@@ -1,16 +1,32 @@
-### Hi there 👋
+# Olá! Eu sou a Ana Claudia
+<div>
+  <a href="https://github.com/anaclaudia-cb">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anaclaudia-cb&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaudia-cb&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="right" alt="Rafa-yoda" src="https://i2.wp.com/data.whicdn.com/images/290358101/original.gif">
+</div>
+  
+  ##
+<div>
+  <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+  
+  🎓 Cursando Analise e Desenvolvimento de Sistemas na UNIP <h6>
+  🌱 Estudando atualmente linguagem PHP <h6>
+  🌎 Inglês iniciante <h6>
+  
+</div>
+  
+  <div>
 
-<!--
-**anaclaudia-cb/anaclaudia-cb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/ana-claudia-de-castro-64b623182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="https://twitter.com/anaclaudiax_?s=09" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
+    
+  </div>
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
